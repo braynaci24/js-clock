@@ -1,2 +1,2 @@
 # LINK
-new-js-clock.netlify.app
+https://new-js-clock.netlify.app/
